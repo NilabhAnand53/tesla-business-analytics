@@ -161,20 +161,17 @@ tesla-business-analytics/
 │       ├── orders_cleaned.csv
 │       └── revenue_cleaned.csv
 ├── notebooks/
-│   └── kasaala.ipynb
+│   └── tesladataclean.ipynb
 ├── sql/
-│   └── analysis.sql
+│   └── tesla_business_analytics.sql
 ├── dax/
-│   └── measures.dax
-├── docs/
-│   ├── sqlaaa2.docx
-│   └── powerbi3teslakasala.docx
+│   └── dax.docx
 ├── reports/
 │   └── tesla_report.pbix
 ├── screenshots/
-│   ├── business_overview.png
-│   ├── customer_analytics.png
-│   └── product_performance.png
+│   ├── customer_analytics_dashboard.png
+│   ├── tesla_sales_analytics.png
+│   └── vehicle_sales_performance.png
 ├── LICENSE
 └── README.md
 ```
