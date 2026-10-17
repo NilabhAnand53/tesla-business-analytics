@@ -160,12 +160,12 @@ tesla-business-analytics/
 │       ├── customers_cleaned.csv
 │       ├── orders_cleaned.csv
 │       └── revenue_cleaned.csv
+├── dax/
+│   └── dax.docx
 ├── notebooks/
 │   └── tesladataclean.ipynb
 ├── sql/
 │   └── tesla_business_analytics.sql
-├── dax/
-│   └── dax.docx
 ├── reports/
 │   └── tesla_report.pbix
 ├── screenshots/
