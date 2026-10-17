@@ -164,14 +164,14 @@ tesla-business-analytics/
 │   └── dax.docx
 ├── notebooks/
 │   └── tesladataclean.ipynb
-├── sql/
-│   └── tesla_business_analytics.sql
 ├── reports/
 │   └── tesla_report.pbix
 ├── screenshots/
 │   ├── customer_analytics_dashboard.png
 │   ├── tesla_sales_analytics.png
 │   └── vehicle_sales_performance.png
+├── sql/
+│   └── tesla_business_analytics.sql
 ├── LICENSE
 └── README.md
 ```
