@@ -161,18 +161,21 @@ tesla-business-analytics/
 │       ├── orders_cleaned.csv
 │       └── revenue_cleaned.csv
 ├── dax/
+│   ├── README.md
 │   └── dax.txt
 ├── notebooks/
+│   ├── README.md
 │   └── tesladataclean.ipynb
 ├── reports/
+│   ├── README.md
 │   └── tesla_report.pbix
 ├── screenshots/
 │   ├── customer_analytics_dashboard.png
 │   ├── tesla_sales_analytics.png
 │   └── vehicle_sales_performance.png
 ├── sql/
+│   ├── README.md
 │   └── tesla_business_analytics.sql
 ├── LICENSE
 └── README.md
 ```
-
